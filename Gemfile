@@ -9,6 +9,9 @@ gem 'jquery-rails'
 gem 'slim-rails'
 gem 'bootstrap-sass'
 
+gem 'devise'
+gem 'simple_form'
+
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
